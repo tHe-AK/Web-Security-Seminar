@@ -1,0 +1,11 @@
+The Mirai botnet
+
+Mirai first came to public attention in September when, as
+mentioned above, the botnet was used for a huge DDoS attack.
+
+That attack peaked at 620 Gbps,making it the biggest DDoS attack ever reported at that time.
+
+Attack on French hosting company OVH that was reported to
+have peaked at 1 Tbps
+
+The attack on Dyn disrupted many of the world’s leading websites, including Netflix,Twitter, and PayPal.
