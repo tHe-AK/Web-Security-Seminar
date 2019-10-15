@@ -1,1 +1,3 @@
-# Web Securty Seminar
+# Web Securty Seminar:
+
+セキュリティセミナー
